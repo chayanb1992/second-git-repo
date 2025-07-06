@@ -4,3 +4,5 @@ Red
 Blue
 Green
 Tomato
+Pink
+Yellow
